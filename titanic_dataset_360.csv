@@ -1,0 +1,361 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,2,"Heikkinen, Miss. Laina",male,67.8,0,0,85499,48.4956,C85,S
+2,1,2,"Cumings, Mrs. John Bradley",male,7.6,4,3,87148,40.3183,G6,Q
+3,0,1,"Palsson, Master. Gosta Leonard",male,54.6,4,3,63830,41.5239,C123,S
+4,0,1,"Allen, Mr. William Henry",male,74.7,0,3,36307,52.4435,C85,Q
+5,0,1,"McCarthy, Mr. Timothy J",male,15.0,2,2,68994,46.877,C85,C
+6,0,2,"Cumings, Mrs. John Bradley",male,69.0,5,0,96910,40.5132,G6,Q
+7,1,2,"Johnson, Mrs. Oscar W",male,76.9,2,4,29510,17.5458,E46,S
+8,0,1,"Heikkinen, Miss. Laina",female,80.0,3,3,59855,40.121,C123,C
+9,0,1,"Cumings, Mrs. John Bradley",male,5.6,4,2,54806,36.6357,C103,C
+10,1,2,"Braund, Mr. Owen Harris",female,30.3,1,4,29403,46.1953,,C
+11,0,2,"Johnson, Mrs. Oscar W",male,30.2,4,2,66987,6.2253,C123,C
+12,1,1,"Cumings, Mrs. John Bradley",female,69.8,2,0,70462,65.8321,C85,Q
+13,0,2,"McCarthy, Mr. Timothy J",male,9.3,5,1,98747,37.6864,C123,C
+14,0,1,"Palsson, Master. Gosta Leonard",male,69.2,0,4,31092,93.2415,G6,S
+15,0,1,"Sandstrom, Miss. Marguerite Rut",male,16.1,0,3,61247,48.6787,C103,S
+16,0,2,"Moran, Mr. James",male,24.4,4,1,55530,74.3416,C85,Q
+17,1,1,"Heikkinen, Miss. Laina",female,44.6,3,4,26550,92.7094,C85,S
+18,1,3,"Palsson, Master. Gosta Leonard",male,33.9,1,1,94040,73.7687,,Q
+19,0,3,"Heikkinen, Miss. Laina",female,12.7,3,5,89684,7.9054,,C
+20,0,2,"Braund, Mr. Owen Harris",female,29.8,5,4,46142,40.8426,C103,C
+21,0,3,"Futrelle, Mrs. Jacques Heath",male,34.3,5,0,75070,73.1228,E46,C
+22,1,2,"McCarthy, Mr. Timothy J",female,36.9,3,3,42277,38.9606,C123,Q
+23,1,3,"Sandstrom, Miss. Marguerite Rut",male,47.9,4,0,56515,98.1514,C85,Q
+24,0,3,"Nasser, Mrs. Nicholas",male,33.8,4,4,51238,6.9158,,C
+25,1,2,"Braund, Mr. Owen Harris",female,56.6,5,3,85107,35.3284,C103,Q
+26,0,2,"Futrelle, Mrs. Jacques Heath",female,30.0,2,0,72025,8.9104,G6,C
+27,0,2,"Cumings, Mrs. John Bradley",male,12.1,4,3,94388,32.7499,C85,Q
+28,0,3,"Nasser, Mrs. Nicholas",female,62.4,1,1,87886,11.7776,G6,C
+29,1,2,"Johnson, Mrs. Oscar W",female,32.6,2,1,87192,11.4409,G6,S
+30,0,1,"Futrelle, Mrs. Jacques Heath",female,35.3,1,5,24943,14.592,C85,S
+31,0,3,"Heikkinen, Miss. Laina",female,22.4,5,0,10964,52.9297,E46,Q
+32,0,2,"Palsson, Master. Gosta Leonard",female,55.0,5,3,87025,54.7085,G6,C
+33,0,1,"Johnson, Mrs. Oscar W",male,30.9,0,0,81298,31.6053,C123,Q
+34,0,1,"Palsson, Master. Gosta Leonard",female,2.7,2,3,30120,66.411,E46,Q
+35,0,2,"Palsson, Master. Gosta Leonard",female,31.5,0,3,61025,96.5394,E46,Q
+36,1,2,"Cumings, Mrs. John Bradley",male,22.1,1,1,45487,32.6774,C85,S
+37,1,2,"Nasser, Mrs. Nicholas",female,56.1,0,0,28890,55.2261,C103,S
+38,0,2,"McCarthy, Mr. Timothy J",female,47.1,0,5,70914,87.1705,E46,Q
+39,1,2,"Allen, Mr. William Henry",male,49.5,1,0,26349,86.4888,G6,C
+40,0,1,"Braund, Mr. Owen Harris",male,11.6,5,3,53735,83.1174,,S
+41,0,3,"Futrelle, Mrs. Jacques Heath",female,63.7,1,2,68662,33.1847,C103,Q
+42,0,3,"Allen, Mr. William Henry",male,73.6,5,3,42000,69.2641,E46,C
+43,1,1,"Palsson, Master. Gosta Leonard",female,3.8,4,4,83208,36.5883,,S
+44,0,2,"Braund, Mr. Owen Harris",female,63.9,3,3,10237,86.4629,E46,Q
+45,0,2,"Johnson, Mrs. Oscar W",male,76.5,0,2,76973,61.5681,C103,S
+46,1,2,"Futrelle, Mrs. Jacques Heath",female,31.3,0,2,99258,38.4132,C85,Q
+47,0,3,"Braund, Mr. Owen Harris",female,46.9,2,2,49382,60.3608,E46,Q
+48,1,1,"Sandstrom, Miss. Marguerite Rut",male,6.7,4,4,25179,98.557,G6,C
+49,1,1,"Nasser, Mrs. Nicholas",female,38.5,1,1,54377,36.6315,C85,S
+50,0,2,"Cumings, Mrs. John Bradley",female,20.9,3,4,38716,60.7846,C85,Q
+51,0,1,"Futrelle, Mrs. Jacques Heath",female,1.4,2,3,49126,61.3329,C85,C
+52,0,2,"Heikkinen, Miss. Laina",male,75.8,1,5,92477,98.376,C123,Q
+53,1,2,"Nasser, Mrs. Nicholas",male,75.3,2,1,63679,14.5884,C85,C
+54,0,3,"McCarthy, Mr. Timothy J",male,5.1,0,1,69308,31.0837,C103,Q
+55,0,3,"Johnson, Mrs. Oscar W",male,26.4,2,4,42448,45.2967,E46,C
+56,0,3,"Cumings, Mrs. John Bradley",male,24.5,2,1,99003,45.299,C123,Q
+57,0,1,"McCarthy, Mr. Timothy J",male,6.1,2,3,14900,88.2158,C123,C
+58,1,3,"Palsson, Master. Gosta Leonard",male,64.2,2,1,98120,53.3457,C123,S
+59,0,3,"Bonnell, Miss. Elizabeth",female,17.9,4,1,18178,66.071,C85,C
+60,1,1,"Braund, Mr. Owen Harris",male,43.1,1,1,41551,8.0103,C85,C
+61,0,1,"Futrelle, Mrs. Jacques Heath",female,36.9,0,0,97514,54.2039,E46,Q
+62,1,1,"Nasser, Mrs. Nicholas",female,67.8,1,5,15385,59.083,G6,C
+63,1,1,"Braund, Mr. Owen Harris",male,72.5,3,4,23271,37.528,E46,C
+64,0,1,"McCarthy, Mr. Timothy J",male,73.7,4,1,24948,89.1882,C85,Q
+65,0,1,"Moran, Mr. James",female,39.9,2,1,62357,48.5883,E46,S
+66,0,2,"Allen, Mr. William Henry",female,44.7,0,5,97524,51.9215,,Q
+67,0,3,"Braund, Mr. Owen Harris",male,75.1,5,0,42535,25.7118,C85,C
+68,1,3,"Moran, Mr. James",male,29.1,4,3,70267,73.8573,E46,S
+69,0,1,"Johnson, Mrs. Oscar W",male,12.5,4,5,45284,20.7292,G6,S
+70,1,3,"Braund, Mr. Owen Harris",male,40.3,1,5,30556,39.926,,Q
+71,0,3,"Braund, Mr. Owen Harris",male,10.2,0,4,22033,38.9862,,C
+72,1,2,"Futrelle, Mrs. Jacques Heath",female,14.6,2,2,40452,64.5988,,C
+73,1,3,"Moran, Mr. James",female,1.8,5,4,89638,99.8896,E46,Q
+74,0,1,"Johnson, Mrs. Oscar W",male,3.9,5,3,29515,44.6997,,Q
+75,1,2,"Cumings, Mrs. John Bradley",female,3.6,2,2,84602,10.4056,E46,C
+76,0,1,"McCarthy, Mr. Timothy J",female,79.9,0,3,20744,45.8086,,C
+77,0,1,"Palsson, Master. Gosta Leonard",female,74.5,5,2,43722,75.2718,C103,Q
+78,1,1,"Palsson, Master. Gosta Leonard",male,75.8,4,3,37653,49.7246,E46,Q
+79,1,1,"Cumings, Mrs. John Bradley",male,52.8,2,4,89483,87.0273,C103,C
+80,1,2,"Sandstrom, Miss. Marguerite Rut",male,65.3,5,3,80608,6.2951,C123,Q
+81,0,1,"Palsson, Master. Gosta Leonard",male,26.8,4,4,97573,7.0675,G6,C
+82,1,1,"Moran, Mr. James",male,15.5,3,3,57166,97.7424,,Q
+83,0,1,"Cumings, Mrs. John Bradley",male,14.7,2,1,80056,74.2083,,C
+84,0,3,"Palsson, Master. Gosta Leonard",male,21.8,2,2,51265,70.6892,G6,Q
+85,1,1,"Heikkinen, Miss. Laina",male,26.3,5,1,89640,26.7425,C103,S
+86,0,2,"McCarthy, Mr. Timothy J",female,45.7,1,0,60818,24.5356,C123,Q
+87,0,1,"Palsson, Master. Gosta Leonard",male,38.6,2,2,64005,65.9473,C85,C
+88,1,3,"Braund, Mr. Owen Harris",male,39.6,4,3,53633,17.6421,,C
+89,1,3,"Braund, Mr. Owen Harris",male,59.1,1,0,56096,27.7197,C85,C
+90,1,2,"Braund, Mr. Owen Harris",male,57.5,2,5,46069,72.5635,G6,C
+91,0,1,"Braund, Mr. Owen Harris",male,44.6,0,2,50139,68.2389,G6,Q
+92,0,3,"Futrelle, Mrs. Jacques Heath",male,75.0,5,0,99946,33.4852,G6,C
+93,1,1,"Cumings, Mrs. John Bradley",male,77.3,2,0,95129,40.9472,C123,Q
+94,0,2,"Sandstrom, Miss. Marguerite Rut",female,70.5,3,0,74425,72.7734,,C
+95,0,2,"Futrelle, Mrs. Jacques Heath",male,44.3,0,5,15967,34.0725,,C
+96,0,3,"Bonnell, Miss. Elizabeth",male,29.7,1,0,75596,79.7727,C85,C
+97,1,3,"Braund, Mr. Owen Harris",male,42.2,4,0,13198,78.1426,C123,Q
+98,1,3,"Allen, Mr. William Henry",male,71.8,1,4,94325,59.3986,G6,C
+99,0,2,"Bonnell, Miss. Elizabeth",male,73.3,4,0,26459,25.7736,C123,S
+100,1,1,"Palsson, Master. Gosta Leonard",female,60.7,2,1,37769,33.086,C85,S
+101,0,2,"Moran, Mr. James",male,56.1,4,4,64929,91.844,C103,C
+102,1,1,"Cumings, Mrs. John Bradley",male,3.5,5,2,52165,45.2375,,C
+103,1,3,"Futrelle, Mrs. Jacques Heath",female,65.5,4,5,85284,84.1222,G6,C
+104,1,3,"McCarthy, Mr. Timothy J",female,9.0,4,2,17360,42.3537,C103,S
+105,0,2,"McCarthy, Mr. Timothy J",female,46.2,0,5,37051,49.6467,C103,C
+106,0,1,"Sandstrom, Miss. Marguerite Rut",female,11.6,3,3,56367,51.0301,C123,C
+107,1,3,"Moran, Mr. James",female,45.2,1,4,91046,98.317,C85,S
+108,1,3,"Palsson, Master. Gosta Leonard",female,49.2,3,2,84160,33.1937,C123,C
+109,1,3,"McCarthy, Mr. Timothy J",female,51.3,1,3,16581,5.1691,C103,Q
+110,0,1,"Nasser, Mrs. Nicholas",male,1.8,2,1,50652,62.2921,E46,Q
+111,0,3,"Allen, Mr. William Henry",female,29.7,3,2,42147,62.5977,C123,Q
+112,0,2,"Allen, Mr. William Henry",male,1.7,1,3,48443,70.9206,C103,C
+113,0,3,"McCarthy, Mr. Timothy J",male,4.4,4,1,65946,87.7194,C123,Q
+114,0,1,"McCarthy, Mr. Timothy J",female,57.5,3,5,66251,73.2737,G6,S
+115,0,1,"Johnson, Mrs. Oscar W",female,73.3,5,3,98270,46.9923,,Q
+116,0,2,"Futrelle, Mrs. Jacques Heath",male,7.0,1,1,52759,45.6036,E46,Q
+117,0,2,"Moran, Mr. James",female,66.6,5,5,33091,56.8664,C85,C
+118,0,2,"Braund, Mr. Owen Harris",male,37.0,2,0,66394,55.8105,G6,S
+119,0,2,"Moran, Mr. James",male,53.4,0,0,83587,93.9814,C123,C
+120,1,1,"Futrelle, Mrs. Jacques Heath",female,61.9,1,4,81302,18.5364,E46,C
+121,1,2,"Braund, Mr. Owen Harris",female,47.7,2,1,55198,13.8521,C123,C
+122,0,3,"Sandstrom, Miss. Marguerite Rut",female,7.9,2,4,54844,8.0774,,S
+123,0,3,"Palsson, Master. Gosta Leonard",male,17.1,3,4,91954,33.4615,E46,S
+124,0,1,"Braund, Mr. Owen Harris",female,24.1,3,5,31035,61.9464,C123,S
+125,1,1,"Cumings, Mrs. John Bradley",male,30.1,4,2,40045,20.833,E46,Q
+126,0,1,"Sandstrom, Miss. Marguerite Rut",male,75.6,3,4,36546,23.8784,C103,Q
+127,1,1,"Johnson, Mrs. Oscar W",male,19.8,5,1,42773,30.9256,E46,C
+128,1,1,"Bonnell, Miss. Elizabeth",male,54.5,4,5,67970,75.5285,E46,C
+129,0,3,"McCarthy, Mr. Timothy J",male,77.7,2,4,22599,14.7837,,Q
+130,1,1,"Palsson, Master. Gosta Leonard",female,10.1,0,2,96985,15.7073,C103,Q
+131,1,3,"Nasser, Mrs. Nicholas",male,24.0,4,3,33003,73.329,E46,Q
+132,1,1,"Nasser, Mrs. Nicholas",male,22.2,2,5,39111,40.1677,C85,C
+133,1,3,"McCarthy, Mr. Timothy J",female,2.1,2,2,69882,93.3632,G6,C
+134,1,1,"Cumings, Mrs. John Bradley",female,14.4,4,3,51921,84.3375,C123,Q
+135,0,1,"Futrelle, Mrs. Jacques Heath",male,34.5,5,0,35875,78.1914,E46,S
+136,0,2,"Heikkinen, Miss. Laina",male,28.5,2,4,54977,31.8577,C85,S
+137,0,1,"Bonnell, Miss. Elizabeth",male,10.5,2,0,89743,61.6094,C85,S
+138,1,1,"Heikkinen, Miss. Laina",male,44.6,0,2,21537,48.8692,C85,C
+139,1,1,"Bonnell, Miss. Elizabeth",male,5.3,4,4,51335,74.0121,G6,S
+140,1,1,"McCarthy, Mr. Timothy J",female,50.4,1,2,20891,80.4106,C85,S
+141,1,2,"Bonnell, Miss. Elizabeth",male,65.7,3,3,83068,41.7123,C123,S
+142,0,2,"Johnson, Mrs. Oscar W",male,79.6,2,4,44252,7.4546,C103,C
+143,1,2,"Futrelle, Mrs. Jacques Heath",female,44.9,3,0,32872,80.7892,,C
+144,0,2,"Johnson, Mrs. Oscar W",male,57.7,5,1,41723,77.9276,C123,S
+145,0,1,"Nasser, Mrs. Nicholas",male,20.0,1,4,23709,88.551,C123,S
+146,1,1,"Braund, Mr. Owen Harris",female,66.4,2,1,95585,41.1095,C85,S
+147,0,3,"Palsson, Master. Gosta Leonard",female,47.5,3,4,99173,30.1039,C85,C
+148,0,3,"McCarthy, Mr. Timothy J",male,5.6,2,5,26580,95.163,G6,S
+149,0,1,"Johnson, Mrs. Oscar W",male,14.6,5,5,41835,12.1176,E46,S
+150,0,1,"Nasser, Mrs. Nicholas",male,3.0,2,4,29767,59.0277,E46,S
+151,1,1,"Nasser, Mrs. Nicholas",male,47.1,2,3,79772,51.8169,C103,C
+152,1,3,"Bonnell, Miss. Elizabeth",female,42.4,1,1,97518,94.5269,C123,C
+153,0,3,"Sandstrom, Miss. Marguerite Rut",female,51.9,1,0,49104,68.7701,G6,S
+154,0,1,"Sandstrom, Miss. Marguerite Rut",male,66.9,3,5,75198,59.838,C103,Q
+155,0,2,"Allen, Mr. William Henry",male,2.2,1,0,39930,90.0503,E46,Q
+156,1,3,"Braund, Mr. Owen Harris",female,23.2,2,3,72282,59.011,,Q
+157,1,2,"Braund, Mr. Owen Harris",female,50.2,3,4,37930,36.9677,C123,Q
+158,1,3,"Braund, Mr. Owen Harris",male,24.3,0,0,92481,8.5423,,Q
+159,0,1,"Futrelle, Mrs. Jacques Heath",female,70.6,2,4,51069,42.0304,E46,C
+160,0,2,"Cumings, Mrs. John Bradley",female,65.3,0,4,48995,62.361,G6,C
+161,1,2,"McCarthy, Mr. Timothy J",male,44.2,3,3,96351,89.9266,C103,Q
+162,0,2,"Moran, Mr. James",female,51.4,2,5,46901,95.1585,C123,Q
+163,1,3,"Braund, Mr. Owen Harris",male,14.2,2,5,54155,11.3151,,S
+164,1,2,"Heikkinen, Miss. Laina",male,30.9,0,4,73137,46.8135,C123,S
+165,0,3,"Heikkinen, Miss. Laina",male,1.7,1,2,91564,82.0351,,Q
+166,1,3,"Futrelle, Mrs. Jacques Heath",female,66.8,4,2,32450,42.1533,,S
+167,1,3,"Futrelle, Mrs. Jacques Heath",female,16.6,0,5,29647,34.7459,C85,Q
+168,0,1,"Sandstrom, Miss. Marguerite Rut",male,63.2,0,3,21368,76.9837,G6,S
+169,1,2,"McCarthy, Mr. Timothy J",male,10.5,1,4,18424,8.7977,C123,S
+170,0,2,"Sandstrom, Miss. Marguerite Rut",male,75.5,0,1,30260,83.5403,C123,Q
+171,0,2,"Moran, Mr. James",female,7.2,1,2,97338,65.8018,,Q
+172,0,2,"Braund, Mr. Owen Harris",male,16.3,1,2,78551,97.3934,C123,C
+173,1,2,"Nasser, Mrs. Nicholas",male,8.0,5,0,92489,24.99,C103,S
+174,1,1,"Palsson, Master. Gosta Leonard",female,16.2,3,1,52307,42.1832,,C
+175,0,2,"Palsson, Master. Gosta Leonard",male,24.5,1,5,87686,34.6778,C103,S
+176,1,1,"Nasser, Mrs. Nicholas",male,71.7,2,0,80223,76.8416,C103,Q
+177,0,1,"Allen, Mr. William Henry",male,3.5,3,0,35101,7.2695,,Q
+178,1,1,"Moran, Mr. James",male,52.8,3,0,95788,13.9261,C103,Q
+179,1,3,"Heikkinen, Miss. Laina",male,16.9,1,1,81256,25.1913,G6,S
+180,1,1,"Cumings, Mrs. John Bradley",male,6.4,5,4,42134,63.6873,C103,S
+181,1,1,"Moran, Mr. James",male,35.0,1,1,72187,65.9398,C103,S
+182,1,1,"Futrelle, Mrs. Jacques Heath",male,66.6,0,4,87847,15.9196,C123,Q
+183,0,3,"McCarthy, Mr. Timothy J",male,13.1,1,5,45217,86.2908,G6,S
+184,0,2,"Heikkinen, Miss. Laina",male,42.9,5,3,42841,62.4269,C85,Q
+185,1,2,"McCarthy, Mr. Timothy J",male,33.8,4,4,99859,90.7651,G6,S
+186,0,3,"Palsson, Master. Gosta Leonard",female,78.5,2,3,23580,92.0265,,C
+187,1,3,"Braund, Mr. Owen Harris",female,68.7,0,5,72150,68.9279,,C
+188,1,3,"Sandstrom, Miss. Marguerite Rut",female,20.2,0,5,92444,37.5279,C123,C
+189,1,2,"Sandstrom, Miss. Marguerite Rut",female,77.7,1,1,25791,89.0169,E46,C
+190,0,2,"Nasser, Mrs. Nicholas",male,10.6,4,1,65514,42.8752,,C
+191,1,2,"McCarthy, Mr. Timothy J",male,9.9,0,5,57748,14.3085,C85,C
+192,1,2,"Nasser, Mrs. Nicholas",male,50.0,0,2,89099,48.0589,G6,Q
+193,0,3,"Braund, Mr. Owen Harris",female,5.8,0,1,79344,14.2351,E46,C
+194,0,1,"Futrelle, Mrs. Jacques Heath",female,20.7,5,2,19938,7.577,G6,C
+195,1,3,"Sandstrom, Miss. Marguerite Rut",female,65.9,2,5,95499,89.9299,C85,S
+196,0,2,"Sandstrom, Miss. Marguerite Rut",female,5.9,4,4,54808,16.8414,C123,Q
+197,1,3,"Futrelle, Mrs. Jacques Heath",male,57.6,2,4,84361,51.6971,E46,Q
+198,1,3,"Heikkinen, Miss. Laina",male,19.1,2,5,25475,13.6033,C103,Q
+199,0,2,"Cumings, Mrs. John Bradley",female,50.9,5,2,82498,81.2114,C85,Q
+200,0,2,"Johnson, Mrs. Oscar W",female,69.8,4,5,69802,57.7007,C123,Q
+201,1,1,"McCarthy, Mr. Timothy J",male,56.2,1,4,45601,5.3594,,C
+202,1,2,"Cumings, Mrs. John Bradley",female,20.1,0,0,58924,79.8375,C103,C
+203,0,2,"Nasser, Mrs. Nicholas",female,7.1,1,4,38837,74.5681,C85,C
+204,0,3,"Allen, Mr. William Henry",male,32.5,0,0,68056,27.3908,E46,S
+205,0,1,"Johnson, Mrs. Oscar W",male,37.9,3,0,34833,53.8642,C103,C
+206,1,3,"Heikkinen, Miss. Laina",male,55.9,1,5,30117,31.794,C103,Q
+207,1,2,"Braund, Mr. Owen Harris",female,43.8,3,2,44166,5.6917,G6,S
+208,0,1,"McCarthy, Mr. Timothy J",male,52.2,1,4,42326,56.6671,C85,Q
+209,1,3,"Cumings, Mrs. John Bradley",female,47.9,0,0,56707,55.0435,G6,C
+210,0,2,"Palsson, Master. Gosta Leonard",male,25.1,3,4,66521,43.9421,C85,S
+211,0,3,"Heikkinen, Miss. Laina",male,72.2,2,3,73408,71.3106,C103,Q
+212,1,2,"McCarthy, Mr. Timothy J",male,60.8,2,0,89651,55.4216,G6,Q
+213,1,1,"Johnson, Mrs. Oscar W",male,2.6,0,1,14878,56.1867,G6,S
+214,0,2,"Heikkinen, Miss. Laina",male,21.0,3,2,53325,16.8976,E46,C
+215,1,1,"Johnson, Mrs. Oscar W",male,65.6,2,2,15253,72.8905,E46,S
+216,0,3,"Moran, Mr. James",female,41.3,2,0,72976,86.1103,C103,Q
+217,0,1,"Bonnell, Miss. Elizabeth",male,38.1,0,1,75909,86.9663,C123,Q
+218,0,2,"Nasser, Mrs. Nicholas",male,29.3,5,2,94834,89.0601,E46,S
+219,1,3,"Futrelle, Mrs. Jacques Heath",male,72.3,5,3,19844,68.9517,G6,C
+220,1,3,"Allen, Mr. William Henry",female,26.6,0,5,49748,29.1542,G6,S
+221,1,1,"Cumings, Mrs. John Bradley",male,13.6,3,3,98857,26.5865,C103,Q
+222,0,3,"Moran, Mr. James",female,7.5,0,3,65369,10.1096,,Q
+223,0,1,"Bonnell, Miss. Elizabeth",female,50.3,0,3,52119,38.895,,Q
+224,0,1,"Bonnell, Miss. Elizabeth",male,34.8,3,2,18764,99.8904,G6,Q
+225,1,2,"Bonnell, Miss. Elizabeth",male,29.5,5,1,61395,15.7517,,Q
+226,0,1,"Sandstrom, Miss. Marguerite Rut",male,12.2,0,3,46704,17.7837,E46,C
+227,1,3,"Nasser, Mrs. Nicholas",male,60.5,3,0,27373,32.635,,C
+228,0,1,"Allen, Mr. William Henry",male,51.3,5,1,83067,52.5347,,Q
+229,0,3,"McCarthy, Mr. Timothy J",female,73.7,3,1,24601,97.1539,,C
+230,0,3,"Cumings, Mrs. John Bradley",female,61.5,4,1,14205,81.9304,E46,Q
+231,0,3,"Sandstrom, Miss. Marguerite Rut",male,51.7,4,3,43915,95.955,E46,C
+232,1,3,"Braund, Mr. Owen Harris",male,5.8,4,3,37195,6.1292,G6,C
+233,0,1,"Moran, Mr. James",female,65.7,2,2,95198,13.5929,E46,Q
+234,0,2,"Johnson, Mrs. Oscar W",male,21.7,4,3,27621,27.5236,C123,C
+235,1,3,"Braund, Mr. Owen Harris",male,15.8,3,0,81745,24.3466,C123,Q
+236,1,1,"Bonnell, Miss. Elizabeth",female,76.4,1,1,54452,43.8286,,S
+237,1,2,"Bonnell, Miss. Elizabeth",female,6.6,2,0,62725,35.4387,,C
+238,0,3,"Moran, Mr. James",male,61.7,4,2,54761,57.5396,G6,S
+239,0,2,"Moran, Mr. James",male,41.3,2,2,16935,23.0446,C103,Q
+240,0,2,"Heikkinen, Miss. Laina",male,30.2,4,2,21034,79.899,C123,C
+241,1,2,"Sandstrom, Miss. Marguerite Rut",female,66.1,0,3,20804,80.1144,,C
+242,0,2,"Palsson, Master. Gosta Leonard",male,51.8,4,3,56826,66.4536,C103,S
+243,0,3,"Cumings, Mrs. John Bradley",female,10.3,4,1,36433,28.0511,C85,S
+244,0,3,"Sandstrom, Miss. Marguerite Rut",male,70.3,4,3,15094,85.5181,,C
+245,1,2,"Futrelle, Mrs. Jacques Heath",female,18.5,5,1,42020,5.4859,,C
+246,1,1,"Futrelle, Mrs. Jacques Heath",female,30.5,4,5,75372,17.5967,C85,Q
+247,1,2,"Braund, Mr. Owen Harris",male,37.7,4,0,82865,74.9527,C103,Q
+248,1,1,"Moran, Mr. James",female,32.0,3,0,49408,10.3491,,Q
+249,0,3,"Johnson, Mrs. Oscar W",male,64.2,1,0,40349,82.1931,,S
+250,1,1,"Sandstrom, Miss. Marguerite Rut",male,70.6,4,4,18324,64.9612,C123,S
+251,0,2,"Bonnell, Miss. Elizabeth",female,78.0,1,1,94039,39.577,,Q
+252,0,2,"Braund, Mr. Owen Harris",male,75.4,1,1,53671,89.954,,Q
+253,1,1,"Allen, Mr. William Henry",male,12.9,0,3,90375,78.7536,C123,C
+254,0,2,"Bonnell, Miss. Elizabeth",female,55.3,2,2,45289,70.8524,C123,C
+255,0,1,"Bonnell, Miss. Elizabeth",female,23.1,0,0,43218,48.8089,C85,C
+256,0,1,"Cumings, Mrs. John Bradley",female,69.6,3,3,98098,15.3822,C123,C
+257,0,3,"Palsson, Master. Gosta Leonard",female,22.9,2,0,53920,24.6006,E46,S
+258,0,3,"Cumings, Mrs. John Bradley",male,33.0,0,3,71852,84.6011,C103,S
+259,0,2,"Palsson, Master. Gosta Leonard",male,60.0,2,5,51251,7.5164,C103,C
+260,1,1,"Sandstrom, Miss. Marguerite Rut",female,61.9,3,1,81804,37.7027,,S
+261,0,3,"Futrelle, Mrs. Jacques Heath",male,38.7,2,4,94989,80.1611,E46,S
+262,1,2,"Johnson, Mrs. Oscar W",male,70.9,0,1,18651,36.0048,E46,Q
+263,0,2,"Palsson, Master. Gosta Leonard",female,65.8,2,5,75062,35.4788,C103,Q
+264,0,3,"Braund, Mr. Owen Harris",male,40.5,5,1,64726,5.1117,,C
+265,0,2,"Bonnell, Miss. Elizabeth",male,54.9,4,2,52640,29.258,G6,Q
+266,1,3,"Nasser, Mrs. Nicholas",male,36.3,4,3,87800,6.0466,,S
+267,0,1,"Nasser, Mrs. Nicholas",male,12.7,3,0,31866,23.1404,C85,Q
+268,0,1,"Palsson, Master. Gosta Leonard",female,11.8,4,5,84213,98.1831,,C
+269,1,3,"Johnson, Mrs. Oscar W",male,53.0,3,0,64312,92.3698,E46,S
+270,1,3,"Cumings, Mrs. John Bradley",male,41.2,5,2,58627,83.3991,C123,S
+271,0,2,"Bonnell, Miss. Elizabeth",female,42.0,0,3,59222,84.4905,E46,S
+272,1,3,"Bonnell, Miss. Elizabeth",female,77.7,3,0,71033,8.1941,C123,Q
+273,1,2,"Bonnell, Miss. Elizabeth",female,55.6,4,4,62276,6.9849,E46,S
+274,1,3,"Johnson, Mrs. Oscar W",male,55.6,5,3,35965,15.4593,E46,Q
+275,1,2,"Futrelle, Mrs. Jacques Heath",male,47.8,5,1,17053,30.2907,C85,Q
+276,1,1,"Cumings, Mrs. John Bradley",male,2.4,3,2,33104,32.9692,C85,Q
+277,0,1,"Cumings, Mrs. John Bradley",male,50.0,0,1,51054,33.6389,E46,C
+278,0,2,"Braund, Mr. Owen Harris",female,39.4,5,2,11054,79.5157,C123,Q
+279,0,2,"Johnson, Mrs. Oscar W",male,25.8,0,1,38443,27.8436,C123,Q
+280,1,1,"Heikkinen, Miss. Laina",female,46.3,4,5,53558,22.6499,,C
+281,1,3,"Cumings, Mrs. John Bradley",female,28.4,2,3,18769,19.8119,E46,Q
+282,1,1,"Nasser, Mrs. Nicholas",male,71.1,3,1,24554,69.8034,E46,Q
+283,1,1,"McCarthy, Mr. Timothy J",female,25.7,0,5,57989,28.2338,C85,S
+284,1,2,"Palsson, Master. Gosta Leonard",female,79.4,0,0,84763,93.3155,E46,Q
+285,1,2,"Moran, Mr. James",male,41.9,0,0,35226,12.6951,C123,S
+286,1,2,"Allen, Mr. William Henry",male,29.5,3,1,41884,20.467,E46,S
+287,0,2,"Braund, Mr. Owen Harris",male,35.5,3,4,74409,89.9831,C123,C
+288,0,3,"Moran, Mr. James",female,71.7,2,3,77756,96.7365,,S
+289,0,2,"Moran, Mr. James",male,31.5,4,1,36068,23.4776,C103,S
+290,0,3,"Heikkinen, Miss. Laina",female,63.1,1,5,22489,91.5131,C123,Q
+291,1,1,"Bonnell, Miss. Elizabeth",female,67.6,1,1,19190,24.6151,C123,S
+292,0,1,"Cumings, Mrs. John Bradley",male,20.7,2,2,33590,94.525,G6,S
+293,0,2,"Braund, Mr. Owen Harris",male,47.6,5,5,41012,35.291,E46,S
+294,1,3,"McCarthy, Mr. Timothy J",female,74.3,1,5,36921,86.2391,E46,Q
+295,1,1,"Cumings, Mrs. John Bradley",male,12.1,0,2,93865,12.1731,C103,C
+296,0,3,"Braund, Mr. Owen Harris",male,17.6,5,2,19260,46.6929,C123,C
+297,1,2,"Nasser, Mrs. Nicholas",female,29.0,1,4,74787,14.3693,,C
+298,1,3,"Johnson, Mrs. Oscar W",female,66.2,5,4,14759,90.2736,,S
+299,1,2,"Heikkinen, Miss. Laina",male,2.7,5,0,91840,82.5847,C103,S
+300,1,2,"Moran, Mr. James",female,70.2,3,2,34575,77.4742,C103,C
+301,0,2,"Sandstrom, Miss. Marguerite Rut",male,77.4,0,1,49752,34.3913,,C
+302,0,3,"Braund, Mr. Owen Harris",female,4.6,4,2,79070,81.6639,G6,C
+303,0,2,"Heikkinen, Miss. Laina",male,43.7,4,0,75236,59.0191,G6,S
+304,1,3,"Bonnell, Miss. Elizabeth",male,42.4,0,4,78212,42.0244,C103,Q
+305,0,2,"Palsson, Master. Gosta Leonard",female,78.9,0,1,70611,29.5631,C123,C
+306,1,2,"Sandstrom, Miss. Marguerite Rut",male,74.1,4,1,36114,29.7781,C123,S
+307,0,2,"Nasser, Mrs. Nicholas",male,70.2,2,5,86097,9.3594,G6,C
+308,0,2,"Futrelle, Mrs. Jacques Heath",male,30.2,1,4,81607,44.7239,E46,S
+309,1,1,"McCarthy, Mr. Timothy J",male,69.2,1,1,92580,15.2062,,S
+310,1,2,"Heikkinen, Miss. Laina",female,61.9,5,4,98329,71.0904,C123,C
+311,1,3,"Cumings, Mrs. John Bradley",female,47.8,0,5,21438,46.2018,,S
+312,1,1,"Johnson, Mrs. Oscar W",female,7.0,3,2,53180,26.5758,G6,C
+313,1,2,"Sandstrom, Miss. Marguerite Rut",male,16.1,2,2,19057,73.7574,E46,Q
+314,1,1,"Johnson, Mrs. Oscar W",male,9.6,2,1,25181,86.89,,Q
+315,0,3,"McCarthy, Mr. Timothy J",male,73.7,4,0,13199,78.3426,E46,C
+316,1,3,"Futrelle, Mrs. Jacques Heath",female,46.6,1,2,46743,98.0037,G6,S
+317,0,1,"Futrelle, Mrs. Jacques Heath",female,18.3,1,4,99246,74.8307,C85,S
+318,1,1,"Sandstrom, Miss. Marguerite Rut",female,19.5,2,2,78086,57.2714,C123,C
+319,1,2,"Heikkinen, Miss. Laina",female,65.3,1,1,38423,38.75,E46,Q
+320,0,2,"Allen, Mr. William Henry",female,62.3,5,1,11697,49.512,,S
+321,0,2,"Sandstrom, Miss. Marguerite Rut",female,22.1,4,1,12241,6.2021,E46,S
+322,1,2,"Braund, Mr. Owen Harris",male,36.8,1,3,91772,35.9607,C123,C
+323,0,1,"Cumings, Mrs. John Bradley",female,23.3,1,4,64562,29.4337,E46,Q
+324,0,2,"Palsson, Master. Gosta Leonard",male,8.8,5,4,58961,19.2153,G6,Q
+325,0,2,"Futrelle, Mrs. Jacques Heath",female,18.9,3,4,35905,86.2743,E46,Q
+326,1,1,"Futrelle, Mrs. Jacques Heath",female,48.0,5,3,87361,59.7316,C85,Q
+327,0,3,"Cumings, Mrs. John Bradley",male,27.8,4,1,10963,18.3142,C85,C
+328,1,3,"Moran, Mr. James",male,65.2,3,1,26293,32.1531,C103,Q
+329,0,1,"Bonnell, Miss. Elizabeth",male,9.7,3,4,19573,7.7623,G6,C
+330,0,1,"Allen, Mr. William Henry",female,12.7,5,5,76395,95.3459,C123,C
+331,0,2,"Braund, Mr. Owen Harris",female,73.8,0,5,70179,85.3065,G6,C
+332,1,1,"Moran, Mr. James",female,16.1,1,5,83095,54.1335,,S
+333,0,3,"Nasser, Mrs. Nicholas",female,46.7,2,0,40803,47.3225,C103,Q
+334,0,1,"Sandstrom, Miss. Marguerite Rut",female,33.5,2,4,25613,42.9367,C85,S
+335,1,1,"Cumings, Mrs. John Bradley",male,52.6,5,0,30432,62.9241,E46,S
+336,1,2,"Futrelle, Mrs. Jacques Heath",male,49.3,0,3,29088,19.4251,C123,Q
+337,0,3,"McCarthy, Mr. Timothy J",male,56.7,5,2,84928,86.9054,,Q
+338,0,2,"Nasser, Mrs. Nicholas",male,79.4,2,5,67805,42.9526,,C
+339,0,1,"Braund, Mr. Owen Harris",male,4.7,1,1,70127,77.7218,C123,C
+340,0,3,"Bonnell, Miss. Elizabeth",female,44.2,5,1,14166,57.5008,C123,C
+341,0,1,"Nasser, Mrs. Nicholas",female,13.8,4,2,36540,76.0534,G6,C
+342,1,3,"Moran, Mr. James",female,69.1,5,0,91831,52.6812,C85,S
+343,1,2,"Sandstrom, Miss. Marguerite Rut",female,38.5,1,1,85800,5.7316,E46,Q
+344,1,1,"Braund, Mr. Owen Harris",male,14.9,5,2,12145,88.9957,G6,C
+345,1,2,"Bonnell, Miss. Elizabeth",male,22.0,2,1,93463,96.144,C85,Q
+346,1,1,"Cumings, Mrs. John Bradley",male,21.4,3,4,32156,46.2151,C123,Q
+347,1,3,"Braund, Mr. Owen Harris",female,3.3,1,4,70113,92.5972,C123,S
+348,0,1,"Moran, Mr. James",male,25.9,2,0,84367,95.7691,C123,C
+349,0,3,"Nasser, Mrs. Nicholas",female,16.6,5,2,34572,91.9902,,Q
+350,0,3,"Heikkinen, Miss. Laina",male,49.4,5,4,98786,26.7837,E46,S
+351,1,1,"McCarthy, Mr. Timothy J",male,69.4,4,4,99866,96.7418,C123,S
+352,1,3,"Braund, Mr. Owen Harris",female,33.4,0,2,53922,6.9333,C103,Q
+353,0,1,"Palsson, Master. Gosta Leonard",female,36.7,4,3,47154,98.9371,E46,Q
+354,0,2,"Heikkinen, Miss. Laina",female,14.2,4,2,67781,67.8391,,C
+355,1,2,"Nasser, Mrs. Nicholas",female,6.7,5,2,61733,89.4611,,S
+356,0,1,"Johnson, Mrs. Oscar W",female,45.7,4,1,79182,83.689,E46,Q
+357,0,3,"Allen, Mr. William Henry",male,72.3,5,2,94753,71.3255,C123,S
+358,1,1,"Moran, Mr. James",female,36.2,4,4,99179,58.3505,,S
+359,0,3,"Sandstrom, Miss. Marguerite Rut",female,10.5,4,2,16664,49.492,G6,C
+360,0,2,"Allen, Mr. William Henry",female,67.7,0,4,17147,46.1387,E46,Q
